@@ -1,4 +1,4 @@
-FROM arm32v7/alpine:latest
+FROM alpine:latest
 LABEL maintainer=Edgar131
 ENV ASPHYXIA_VERSION=1.40
 ENV ASPHYXIA_PLUGIN_VERSION=0.5
